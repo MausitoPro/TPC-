@@ -1,6 +1,6 @@
 Trabajo Práctico C#
 
-(Perdón profe por los commits posteriores al viernes! Se han encontrado bugs y detalles no desarrollados, por lo que
+(Perdón profe por los commits posteriores al viernes (o sea sábado)! Se han encontrado bugs y detalles no desarrollados, por lo que
 consideramos pertinente usar github para agregar commits y solucionarlos, además de agregar este README).
 
 Trabajo realizado por Santiago Simón Trifiró y Wallace Mitchell.
