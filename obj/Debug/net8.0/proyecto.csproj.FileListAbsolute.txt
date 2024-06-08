@@ -12,3 +12,4 @@ C:\Users\MausitoPro\Desktop\6to Info\C#\TP\proyecto\obj\Debug\net8.0\refint\proy
 C:\Users\MausitoPro\Desktop\6to Info\C#\TP\proyecto\obj\Debug\net8.0\proyecto.pdb
 C:\Users\MausitoPro\Desktop\6to Info\C#\TP\proyecto\obj\Debug\net8.0\proyecto.genruntimeconfig.cache
 C:\Users\MausitoPro\Desktop\6to Info\C#\TP\proyecto\obj\Debug\net8.0\ref\proyecto.dll
+C:\Users\MausitoPro\Desktop\6to Info\C#\TP\proyecto\obj\Debug\net8.0\proyecto.sourcelink.json
